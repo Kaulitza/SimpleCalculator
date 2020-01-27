@@ -1,0 +1,74 @@
+E:\__CIT195\Week 01\MyFirstApp\MyFirstApp\bin\Debug\MyFirstApp.exe.config
+E:\__CIT195\Week 01\MyFirstApp\MyFirstApp\bin\Debug\MyFirstApp.exe
+E:\__CIT195\Week 01\MyFirstApp\MyFirstApp\bin\Debug\MyFirstApp.pdb
+E:\__CIT195\Week 01\MyFirstApp\MyFirstApp\obj\Debug\MyFirstApp.csprojAssemblyReference.cache
+E:\__CIT195\Week 01\MyFirstApp\MyFirstApp\obj\Debug\MainWindow.g.cs
+E:\__CIT195\Week 01\MyFirstApp\MyFirstApp\obj\Debug\App.g.cs
+E:\__CIT195\Week 01\MyFirstApp\MyFirstApp\obj\Debug\MyFirstApp_MarkupCompile.cache
+E:\__CIT195\Week 01\MyFirstApp\MyFirstApp\obj\Debug\MyFirstApp_MarkupCompile.lref
+E:\__CIT195\Week 01\MyFirstApp\MyFirstApp\obj\Debug\MainWindow.baml
+E:\__CIT195\Week 01\MyFirstApp\MyFirstApp\obj\Debug\MyFirstApp.g.resources
+E:\__CIT195\Week 01\MyFirstApp\MyFirstApp\obj\Debug\MyFirstApp.Properties.Resources.resources
+E:\__CIT195\Week 01\MyFirstApp\MyFirstApp\obj\Debug\MyFirstApp.csproj.GenerateResource.cache
+E:\__CIT195\Week 01\MyFirstApp\MyFirstApp\obj\Debug\MyFirstApp.exe
+E:\__CIT195\Week 01\MyFirstApp\MyFirstApp\obj\Debug\MyFirstApp.pdb
+E:\__CIT195\Week 01\MyFirstApp\MyFirstApp\obj\Debug\HelpWindow.g.cs
+E:\__CIT195\Week 01\MyFirstApp\MyFirstApp\obj\Debug\HelpWindow.baml
+E:\__CIT195\Week 01\MyFirstApp\MyFirstApp\obj\Debug\DivideByZeroError.g.cs
+E:\__CIT195\Week 01\MyFirstApp\MyFirstApp\obj\Debug\DivideByZeroError.baml
+E:\__CIT195\Week 01\WPF_Calculator\MyFirstApp\obj\Debug\MyFirstApp.csprojAssemblyReference.cache
+E:\__CIT195\Week 01\WPF_Calculator\MyFirstApp\obj\Debug\DivideByZeroError.g.cs
+E:\__CIT195\Week 01\WPF_Calculator\MyFirstApp\obj\Debug\CalculatorWindow.g.cs
+E:\__CIT195\Week 01\WPF_Calculator\MyFirstApp\obj\Debug\HelpWindow.g.cs
+E:\__CIT195\Week 01\WPF_Calculator\MyFirstApp\obj\Debug\App.g.cs
+E:\__CIT195\Week 01\WPF_Calculator\MyFirstApp\obj\Debug\MyFirstApp_MarkupCompile.cache
+E:\__CIT195\Week 01\WPF_Calculator\MyFirstApp\obj\Debug\MyFirstApp_MarkupCompile.lref
+E:\__CIT195\Week 01\WPF_Calculator\MyFirstApp\obj\Debug\MyFirstApp.exe
+E:\__CIT195\Week 01\WPF_Calculator\MyFirstApp\obj\Debug\MyFirstApp.pdb
+E:\__CIT195\Week 01\WPF_Calculator\MyFirstApp\bin\Debug\MyFirstApp.exe.config
+E:\__CIT195\Week 01\WPF_Calculator\MyFirstApp\bin\Debug\MyFirstApp.exe
+E:\__CIT195\Week 01\WPF_Calculator\MyFirstApp\bin\Debug\MyFirstApp.pdb
+E:\__CIT195\Week 01\WPF_Calculator\MyFirstApp\obj\Debug\DivideByZeroError.baml
+E:\__CIT195\Week 01\WPF_Calculator\MyFirstApp\obj\Debug\CalculatorWindow.baml
+E:\__CIT195\Week 01\WPF_Calculator\MyFirstApp\obj\Debug\HelpWindow.baml
+E:\__CIT195\Week 01\WPF_Calculator\MyFirstApp\obj\Debug\MyFirstApp.g.resources
+E:\__CIT195\Week 01\WPF_Calculator\MyFirstApp\obj\Debug\MyFirstApp.Properties.Resources.resources
+E:\__CIT195\Week 01\WPF_Calculator\MyFirstApp\obj\Debug\MyFirstApp.csproj.GenerateResource.cache
+F:\__CIT195\Week 02\WPF_Calculator\MyFirstApp\obj\Debug\MyFirstApp.csprojAssemblyReference.cache
+F:\__CIT195\Week 02\WPF_Calculator\MyFirstApp\obj\Debug\DivideByZeroError.g.cs
+F:\__CIT195\Week 02\WPF_Calculator\MyFirstApp\obj\Debug\CalculatorWindow.g.cs
+F:\__CIT195\Week 02\WPF_Calculator\MyFirstApp\obj\Debug\HelpWindow.g.cs
+F:\__CIT195\Week 02\WPF_Calculator\MyFirstApp\obj\Debug\App.g.cs
+F:\__CIT195\Week 02\WPF_Calculator\MyFirstApp\obj\Debug\MyFirstApp_MarkupCompile.cache
+F:\__CIT195\Week 02\WPF_Calculator\MyFirstApp\obj\Debug\MyFirstApp_MarkupCompile.lref
+F:\__CIT195\Week 02\WPF_Calculator\MyFirstApp\obj\Debug\MyFirstApp.exe
+F:\__CIT195\Week 02\WPF_Calculator\MyFirstApp\obj\Debug\MyFirstApp.pdb
+F:\__CIT195\Week 02\WPF_Calculator\MyFirstApp\bin\Debug\MyFirstApp.exe.config
+F:\__CIT195\Week 02\WPF_Calculator\MyFirstApp\bin\Debug\MyFirstApp.exe
+F:\__CIT195\Week 02\WPF_Calculator\MyFirstApp\bin\Debug\MyFirstApp.pdb
+F:\__CIT195\Week 02\WPF_Calculator\MyFirstApp\obj\Debug\DivideByZeroError.baml
+F:\__CIT195\Week 02\WPF_Calculator\MyFirstApp\obj\Debug\CalculatorWindow.baml
+F:\__CIT195\Week 02\WPF_Calculator\MyFirstApp\obj\Debug\HelpWindow.baml
+F:\__CIT195\Week 02\WPF_Calculator\MyFirstApp\obj\Debug\MyFirstApp.g.resources
+F:\__CIT195\Week 02\WPF_Calculator\MyFirstApp\obj\Debug\MyFirstApp.Properties.Resources.resources
+F:\__CIT195\Week 02\WPF_Calculator\MyFirstApp\obj\Debug\MyFirstApp.csproj.GenerateResource.cache
+C:\Users\miche\Documents\School\WPF_Calculator\MyFirstApp\bin\Debug\MyFirstApp.exe.config
+C:\Users\miche\Documents\School\WPF_Calculator\MyFirstApp\bin\Debug\MyFirstApp.exe
+C:\Users\miche\Documents\School\WPF_Calculator\MyFirstApp\bin\Debug\MyFirstApp.pdb
+C:\Users\miche\Documents\School\WPF_Calculator\MyFirstApp\obj\Debug\MyFirstApp.csprojAssemblyReference.cache
+C:\Users\miche\Documents\School\WPF_Calculator\MyFirstApp\obj\Debug\DivideByZeroError.g.cs
+C:\Users\miche\Documents\School\WPF_Calculator\MyFirstApp\obj\Debug\CalculatorWindow.g.cs
+C:\Users\miche\Documents\School\WPF_Calculator\MyFirstApp\obj\Debug\HelpWindow.g.cs
+C:\Users\miche\Documents\School\WPF_Calculator\MyFirstApp\obj\Debug\App.g.cs
+C:\Users\miche\Documents\School\WPF_Calculator\MyFirstApp\obj\Debug\MyFirstApp_MarkupCompile.cache
+C:\Users\miche\Documents\School\WPF_Calculator\MyFirstApp\obj\Debug\MyFirstApp_MarkupCompile.lref
+C:\Users\miche\Documents\School\WPF_Calculator\MyFirstApp\obj\Debug\DivideByZeroError.baml
+C:\Users\miche\Documents\School\WPF_Calculator\MyFirstApp\obj\Debug\CalculatorWindow.baml
+C:\Users\miche\Documents\School\WPF_Calculator\MyFirstApp\obj\Debug\HelpWindow.baml
+C:\Users\miche\Documents\School\WPF_Calculator\MyFirstApp\obj\Debug\MyFirstApp.g.resources
+C:\Users\miche\Documents\School\WPF_Calculator\MyFirstApp\obj\Debug\MyFirstApp.Properties.Resources.resources
+C:\Users\miche\Documents\School\WPF_Calculator\MyFirstApp\obj\Debug\MyFirstApp.csproj.GenerateResource.cache
+C:\Users\miche\Documents\School\WPF_Calculator\MyFirstApp\obj\Debug\MyFirstApp.exe
+C:\Users\miche\Documents\School\WPF_Calculator\MyFirstApp\obj\Debug\MyFirstApp.pdb
+C:\Users\miche\Documents\School\WPF_Calculator\MyFirstApp\obj\Debug\ValidationError.g.cs
+C:\Users\miche\Documents\School\WPF_Calculator\MyFirstApp\obj\Debug\ValidationError.baml
